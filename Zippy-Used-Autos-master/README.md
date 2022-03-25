@@ -1,6 +1,7 @@
 # INF653 Back End Web Development I - Midterm Project Requirements
 
-Deployed to: 
+Deployed to: https://zippy-used-autos-master.herokuapp.com/
+
 
 You will build a PHP Web Application for our client “Zippy Used Autos”.
 
